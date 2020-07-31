@@ -1,2 +1,2 @@
 # eduflix
-Projeto feito na primeira aula da imersão react da alura
+Projeto feito na imersão react da alura
